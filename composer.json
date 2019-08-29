@@ -1,0 +1,21 @@
+{
+    "name": "xjw/validator",
+    "description": "data validator",
+    "type": "library",
+    "require": {
+        "php": ">5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiajunwei",
+            "email": "317681472@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Xjw\\": "src/"
+        }
+    }
+}
